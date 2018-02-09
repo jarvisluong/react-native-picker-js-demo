@@ -5,6 +5,7 @@
     "slug": "react-native-picker-js-demo",
     "privacy": "public",
     "sdkVersion": "25.0.0",
+    "githubUrl": "https://github.com/jarvisluong/react-native-picker-js-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
